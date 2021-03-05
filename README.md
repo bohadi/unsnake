@@ -1,4 +1,4 @@
-# Unsnake
+# unSnake
 
 A forgiving twist on the classic Snake game.
 
