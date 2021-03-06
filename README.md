@@ -11,6 +11,6 @@ A forgiving twist on the classic Snake game.
 Built from the Brick terminal UI and Sam Tay's introduction to Brick
 
 
-[brick](https://hackage.haskell.org/package/brick-0.18) library.
+[brick](https://hackage.haskell.org/package/brick) library.
 [Introduction to Brick](https://samtay.github.io/posts/introduction-to-brick)
 
