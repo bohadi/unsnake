@@ -8,7 +8,7 @@ A forgiving twist on the classic Snake game.
 </p>
 
 
-Built from the Brick terminal UI and Sam Tay's tutorial.
+Built from the Brick terminal UI and Sam Tay's introduction to Brick
 
 
 [brick](https://hackage.haskell.org/package/brick-0.18) library.
